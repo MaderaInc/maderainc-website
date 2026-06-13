@@ -14,3 +14,5 @@ npm start
 ```bash
 npm run build
 ```
+
+Deployed on Vercel from the `main` branch.
